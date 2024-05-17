@@ -1,0 +1,4 @@
+how to upload to git hub
+git add "file name"
+git commit -m "adding a new file"
+git push -u origin main
